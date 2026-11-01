@@ -12,7 +12,7 @@ app.get("/", (req, res) => {
 // Route 2: GET /about -> JSON containing name and section
 app.get("/about", (req, res) => {
   res.status(200).json({
-    name: "Aravind Gabbi",
+    name: "Uday Kiran K",
     section: "CSE-QE 113"
   });
 });

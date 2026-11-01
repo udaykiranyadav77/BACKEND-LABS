@@ -2,13 +2,13 @@
 
 ## Student Details
 
-- **Name:** Aravind Gabbi
-- **Registration Number:** 252U1R8021
+- **Name:** Uday Kiran K
+- **Registration Number:** 252U1R8039
 - **Section:** CSE-QE 113
 
 ## Live Link
 
-[https://lab-01-express-server-wl3j.onrender.com/](https://lab-01-express-server-wl3j.onrender.com/)
+[https://lab-01-express-server-0cg9.onrender.com](https://lab-01-express-server-0cg9.onrender.com)
 
 ## How to Run
 

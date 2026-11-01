@@ -1,5 +1,5 @@
 # Base URL (Toggle between live Render deployment and localhost)
-@baseUrl = https://lab-02-sqlite-server.onrender.com
+@baseUrl = https://lab-02-sqlite-server-gd58.onrender.com
 # @baseUrl = http://localhost:3000
 
 ### 1. GET All Books
