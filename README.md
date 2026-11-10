@@ -12,7 +12,7 @@ This repository contains backend development laboratory experiments and submissi
 |:---:|:---|:---:|:---:|:---:|
 | Lab 1 | Node.js and Express Server | [lab-01](./lab-01) | [Render Link](https://lab-01-express-server-0cg9.onrender.com) | Completed |
 | Lab 2 | SQLite Database and CRUD Routes | [lab-02](./lab-02) | [API](https://lab-02-sqlite-server-gd58.onrender.com/books/) \| [Tester Studio](https://lab-02-sqlite-server-gd58.onrender.com/tester) | Completed |
-| Lab 3 | Upcoming | lab-03 | — | Pending |
+| Lab 3 | REST API, Query Parameters, Validation, and Debugging | [lab-03](./lab-03) | [Live API](https://lab-03-rest-api-omz9.onrender.com/books) | Completed |
 | Lab 4 | Upcoming | lab-04 | — | Pending |
 | Lab 5 | Upcoming | lab-05 | — | Pending |
 | Lab 6 | Upcoming | lab-06 | — | Pending |
