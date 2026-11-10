@@ -20,3 +20,15 @@ services:
     envVars:
       - key: NODE_VERSION
         value: 20.x
+
+  - type: web
+    name: lab-03-python-integration
+    runtime: node
+    rootDir: lab-03
+    buildCommand: npm install
+    startCommand: node server.js
+    plan: free
+    autoDeployTrigger: commit
+    envVars:
+      - key: NODE_VERSION
+        value: 20.x
